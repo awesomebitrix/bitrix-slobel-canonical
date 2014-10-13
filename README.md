@@ -1,4 +1,6 @@
-bitrix-slobel-canonical
+SloBel Canonical modules
 =======================
 
-Canonical URL
+Canonical URL v1.0.1
+
+[Bitrix Marketplace](http://marketplace.1c-bitrix.ru/solutions/slobel.canonical/)
